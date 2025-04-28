@@ -6,6 +6,6 @@ See: [Alfe.DevAgent.Thinking.md](https://github.com/alfe-ai/alfe-agent_instructi
 
 This project is released under the MIT License.
 
-© 2023-2025 Alfe AI, Lochner Technology and Commerce, LLC.
+Copyright (c) 2023-2025 Lochner Technology and Commerce, LLC, dba Alfe AI.
 
 For full details, see the [LICENSE](https://github.com/alfe-ai/alfe-agent_instructions/blob/main/LICENSE) file.
