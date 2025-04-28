@@ -4,4 +4,8 @@ See: https://github.com/alfe-ai/alfe-agent_instructions/blob/main/AgentInstructi
 
 ---
 
-This project is licensed under the MIT License. © 2023-2025 Alfe AI, Lochner Technology and Commerce, LLC. For full details, see the LICENSE file.
+This project is released under the MIT License.
+
+© 2023-2025 Alfe AI, Lochner Technology and Commerce, LLC.
+
+For full details, see the LICENSE file.
